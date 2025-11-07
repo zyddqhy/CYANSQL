@@ -11,6 +11,7 @@ This repository contains the official implementation of **"CYANSQL: Unlock the P
 
 ### 🔄 In Progress
 - [x] Open source approval submission
-
+- [ ] Open source approval passed
+      
 ### ⏳ Pending
 - [ ] Release preparation
