@@ -74,7 +74,7 @@ Contributions are provided "AS IS" without warranties.
 
 ---
 
-## 8. Acceptance / 接受条款
+## 7. Acceptance / 接受条款
 
 Submitting a Contribution indicates that You have accepted and agreed to comply with the terms of this Agreement.
 
